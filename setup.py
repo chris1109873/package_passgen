@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="package_passgen",
-    version="0.0.1",
+    version="0.0.2",
     author="Chris",
     author_email="christopher.m9876@gmail.com",
     description="A package to generate strong random passwords",
